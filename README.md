@@ -12,7 +12,7 @@ Watch my *[DEMO VIDEOS!]
   * image processing
 * [Pedestrian Removing Application](https://github.com/ChiHanWang/MystanCodeProjects/blob/main/stanCode_projects/Pedestrian_removing_application/stanCodoshop.py)
   * image processing
-* [Breakout Game]
+* [Breakout Game](https://github.com/ChiHanWang/Projects/blob/main/stanCode_projects/Break_out_game/breakout.py)
   * animation & game designing
 * [Name Popularity Searching System]
   * data structure
