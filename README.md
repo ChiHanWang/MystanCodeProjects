@@ -10,7 +10,7 @@ Watch my *[DEMO VIDEOS!]
   * python semantics & syntax
 * [MyPhotoshop](https://github.com/ChiHanWang/MystanCodeProjects/blob/main/stanCode_projects/MyPhotoshop/best_photoshop_award.py)
   * image processing
-* [Pedestrian Removing Application]
+* [Pedestrian Removing Application](https://github.com/ChiHanWang/MystanCodeProjects/blob/main/stanCode_projects/Pedestrian_removing_application/stanCodoshop.py)
   * image processing
 * [Breakout Game]
   * animation & game designing
