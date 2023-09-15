@@ -1,5 +1,5 @@
 """
-File: hangman.py
+File: hangman_ext.py
 Name: Michelle
 -----------------------------
 This program plays hangman game.
