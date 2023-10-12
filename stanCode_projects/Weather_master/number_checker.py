@@ -1,5 +1,5 @@
 """
-File: extension2_number_checker.py
+File: number_checker.py
 Name: Michelle
 ------------------------
 This program asks our user for input and checks if the input is a
