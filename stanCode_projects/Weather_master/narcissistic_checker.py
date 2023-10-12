@@ -1,5 +1,5 @@
 """
-File: extension4_narcissistic_checker.py
+File: narcissistic_checker.py
 Name: Michelle
 ------------------------
 This program asks our user for input and checks if the input is a
