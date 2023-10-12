@@ -1,5 +1,5 @@
 """
-File: extension1_factioral.py
+File: factioral.py
 Name: Michelle
 -------------------
 This program will continually ask our user to give a number
