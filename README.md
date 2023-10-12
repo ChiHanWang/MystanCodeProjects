@@ -1,7 +1,7 @@
 ## *stanCode* Projects
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC001 and SC101 course.
-Watch my *[DEMO VIDEOS!](https://www.youtube.com/playlist?app=desktop&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP)*
+Watch my *[DEMO VIDEOS!](https://www.youtube.com/watch?v=o63KPoIXJS4&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP&index=1)*
 
 ## Project Source Codes:
 * [Hangman Game](https://github.com/ChiHanWang/MystanCodeProjects/blob/main/stanCode_projects/Hangman_game/hangman_ext.py)
